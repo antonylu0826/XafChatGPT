@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XafChatGPT.Module", "XafChatGPT.Module\XafChatGPT.Module.csproj", "{1553325E-6928-406B-9122-30100BBECAC6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XafChatGPT.Blazor.Server", "XafChatGPT.Blazor.Server\XafChatGPT.Blazor.Server.csproj", "{EC72FDAE-2129-4955-BF7D-ADA9784FDF9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		EasyTest|Any CPU = EasyTest|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1553325E-6928-406B-9122-30100BBECAC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1553325E-6928-406B-9122-30100BBECAC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1553325E-6928-406B-9122-30100BBECAC6}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{1553325E-6928-406B-9122-30100BBECAC6}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{1553325E-6928-406B-9122-30100BBECAC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1553325E-6928-406B-9122-30100BBECAC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC72FDAE-2129-4955-BF7D-ADA9784FDF9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC72FDAE-2129-4955-BF7D-ADA9784FDF9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC72FDAE-2129-4955-BF7D-ADA9784FDF9D}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{EC72FDAE-2129-4955-BF7D-ADA9784FDF9D}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{EC72FDAE-2129-4955-BF7D-ADA9784FDF9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC72FDAE-2129-4955-BF7D-ADA9784FDF9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91E7F477-E3D3-4579-9391-283F27C6BE22}
+	EndGlobalSection
+EndGlobal
